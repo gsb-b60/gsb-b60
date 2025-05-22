@@ -18,7 +18,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gsb-b60&show_icons=true&theme=tokyonight)
 
 ### 📫 Contact
-- YouTube: https://youtube.com/@dinhhieu
+- YouTube: https://youtube.com/@dinhhieeu
 - Email: dihieu2407@gmail.com
 
 ---
