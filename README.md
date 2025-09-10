@@ -1,4 +1,4 @@
-## Hi there 👋 I'm glorila silver back bench-90!
+## Dinh Hieu on da mic
 
 🎓 I'm an IT student, passionate about coding, chess, calisthenics, and content creation.
 
